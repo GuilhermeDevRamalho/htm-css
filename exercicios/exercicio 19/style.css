@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(177, 161, 177);
+}
+
+h1 {
+    color: rgb(65, 57, 65);
+}
+
+h2 {
+    color: rgb(80, 62, 80);
+}
+
+#pp {
+    color: rgb(10, 10, 10);
+    text-align: center;
+}
+
+.basico {
+    color: green;
+}
+
+.int {
+    color: yellow;
+}
+
+.ava {
+    color: red;
+}

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(210, 221, 149);
+}
+
+header > h1 {
+    font-family: Arial, Verdana, sans-serif;
+    color: rgb(95, 89, 89);
+    text-align: center;
+    text-shadow: 5px 5px 40px rgba(0, 0, 0, 0.473);
+}
+
+aside {
+    background-color: rgb(44, 43, 43);
+    margin: auto;
+    width: 350px;
+    height: 60px;
+    padding: 15px 5px 5px 5px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#espelho {
+    background-color: rgb(226, 221, 221);
+    height: 40px;
+    width:  300px;
+    margin: auto;
+    padding: 2px;
+}
+
+#botãos {
+    background-color: rgb(105, 105, 219);
+    width: 350px;
+    padding: 15px 5px 5px 5px;
+    margin: auto;
+} 
+
+#botãos > button {
+    margin: 10px;
+    line
+}
